@@ -18,7 +18,7 @@ import java.util.Scanner;
  * 	  System.out.println("당신의 나이는 " + age + "세 이군요!");
  */
 
-public class C_Scanner3_입력받기 {
+public class C_Scanner_입력받기 {
 		public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

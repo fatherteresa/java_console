@@ -6,8 +6,8 @@ public class D_if2_중첩if {
 	public static void main(String[] args) {
 
 		/*
-		중첩 if 문
-		===  조금전에 했던 로그인을 중첩if문으로 다시 표현하기. ===
+		중첩 if 
+		===  조금전에 했던 로그인을 중첩if 로 다시 표현하기. ===
 		===  먼저 id 를 입력받고 , id 가 일치하면 그때 pw 를 입력받기. ===
 		
 		 * 1. Id를 입력받아 dbId와 일치할 경우에만 Pw를 입력할 수 있다.

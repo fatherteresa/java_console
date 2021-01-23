@@ -2,7 +2,7 @@ package D0_if_이론;
 
 import java.util.Random;
 
-public class D_if6_조건문옵션else {
+public class D_if6_조건문옵션1_else {
 	public static void main(String[] args) {
 
 		/*
