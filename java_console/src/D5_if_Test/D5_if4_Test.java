@@ -21,5 +21,12 @@ public class D5_if4_Test {
 		  
 		  
 		 */
+		
+		// ¹®Á¦ 1)
+		int count = 14 / 3;
+		if(14 % 3 != 0) count += 1;
+		System.out.println(count);
+		
+		
 	}
 }

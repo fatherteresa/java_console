@@ -31,11 +31,7 @@ public class C_Scanner_입력받기 {
 		int age = scan.nextInt();
 		System.out.println("당신의 나이는 " + age + "세 이군요!");
 		
-		// 문제 1) 숫자 2개를 입력받아, 합 출력
-		
-		// 문제 2) 숫자 1개를 입력받아, 홀수이면 true 출력
-				
-		// 문제 3) 성적을 입력받아, 60점 이상이고 100점 이하이면 true 출력
+	
 		
 		
 	}
